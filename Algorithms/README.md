@@ -6,8 +6,8 @@
 </p>
 
 * [Algorithms](#)
-* [Python](#../python)
-* [SQL](#../sql)
+* [Python](../python)
+* [SQL](../sql)
 
 # Algorithms
 
