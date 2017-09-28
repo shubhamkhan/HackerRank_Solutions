@@ -3,14 +3,14 @@
         <img height=85 src="logo_wordmark.svg">
     </a>
     <br>Solutions to HackerRank problems
-    <br>
+</p>
+
 * [Algorithms](#algorithms)
 * [Python](#python)
 * [SQL](#sql)
-</p>
 
 # Algorithms
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|          Warmup         | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                              |   1    | [solve-me-first.py]()|
+|          Warmup         | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                                              |   1    | [solve-me-first.py](https://github.com/shubhamkhan/HackerRank_Solutions/blob/master/Algorithms/solve-me-first.py)|
