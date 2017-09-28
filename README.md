@@ -5,9 +5,9 @@
     <br>Solutions to HackerRank problems
 </p>
 
-* [Algorithms](#)
-* [Python](#../python)
-* [SQL](#../sql)
+* [Algorithms](#algorithms)
+* [Python](#python)
+* [SQL](#sql)
 
 # Algorithms
 

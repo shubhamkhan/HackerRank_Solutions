@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://www.hackerrank.com/shubhamkhan">
-        <img height=85 src="logo_wordmark.svg">
+        <img height=85 src="../logo_wordmark.svg">
     </a>
     <br>Solutions to HackerRank problems
 </p>
 
-* [Algorithms](#algorithms)
-* [Python](#python)
-* [SQL](#sql)
+* [Algorithms](#)
+* [Python](#../python)
+* [SQL](#../sql)
 
 # Algorithms
 
